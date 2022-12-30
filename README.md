@@ -1,6 +1,9 @@
 # NavMesh2Asset
  Simple tool that generates a mesh Asset from a baked NavMesh.
- 
+
+### Author
+[☕ Carlos Lecina](https://ko-fi.com/carloslecina)
+
 ### Overview
  Sometimes you need a lowpoly mesh from your level for testing purposes, tweaking level design and/or navigation, etc.
  This little script solves this problem by dumping your current baked Navigation Mesh into a proper Mesh GameObject in your Scene.
